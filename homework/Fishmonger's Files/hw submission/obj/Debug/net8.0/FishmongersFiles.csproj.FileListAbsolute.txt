@@ -1,0 +1,14 @@
+E:\Game Design\codes\FishmongersFiles\bin\Debug\net8.0\FishmongersFiles.exe
+E:\Game Design\codes\FishmongersFiles\bin\Debug\net8.0\FishmongersFiles.deps.json
+E:\Game Design\codes\FishmongersFiles\bin\Debug\net8.0\FishmongersFiles.runtimeconfig.json
+E:\Game Design\codes\FishmongersFiles\bin\Debug\net8.0\FishmongersFiles.dll
+E:\Game Design\codes\FishmongersFiles\bin\Debug\net8.0\FishmongersFiles.pdb
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\FishmongersFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\FishmongersFiles.AssemblyInfoInputs.cache
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\FishmongersFiles.AssemblyInfo.cs
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\FishmongersFiles.csproj.CoreCompileInputs.cache
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\FishmongersFiles.dll
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\refint\FishmongersFiles.dll
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\FishmongersFiles.pdb
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\FishmongersFiles.genruntimeconfig.cache
+E:\Game Design\codes\FishmongersFiles\obj\Debug\net8.0\ref\FishmongersFiles.dll
